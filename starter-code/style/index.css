@@ -13,3 +13,9 @@
 .card:hover .card-img-top {
   transform: scale(1.05);
 }
+
+header{
+  padding: 12px 0px;
+  border: transparent 1px lightsteelblue ;
+
+  }
